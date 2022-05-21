@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/macbookpro/ft_multi/fungible_token_multisender/contract/target/wasm32-unknown-unknown/debug/build/typenum-765fe82de63af7f0/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/macbookpro/ft_multi/fungible_token_multisender/contract/target/wasm32-unknown-unknown/debug/build/typenum-765fe82de63af7f0/out/op.rs
